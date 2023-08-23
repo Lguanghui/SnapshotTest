@@ -92,6 +92,8 @@
 			dependencies = (
 			);
 			name = SnapshotTest;
+			packageProductDependencies = (
+			);
 			productName = SnapshotTest;
 			productReference = BE857C222A9497C3002B0F81 /* SnapshotTest.app */;
 			productType = "com.apple.product-type.application";
@@ -119,6 +121,8 @@
 				Base,
 			);
 			mainGroup = BE857C192A9497C3002B0F81;
+			packageReferences = (
+			);
 			productRefGroup = BE857C232A9497C3002B0F81 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
